@@ -1,8 +1,8 @@
-### Pangramme
+# Pangramme
 
 ## Was ist ein Pangramm?
 
-# Ein Pangramm
+### Ein Pangramm
 
 - ist ein Satz, der alle Buchstaben des *Alphabetes* der verwendeten Sprache enthält
 - verdeutlicht das *Erscheinungsbild* einer Schriftart
